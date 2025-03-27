@@ -1,5 +1,11 @@
 # Analysis of Bacterial Whole Genome Sequencing
 ## Purpose
+
+Code written by Joshua W. McCausland, originally used in the publication below. Please cite this publication is you use this script.
+
+McCausland JW, Kloos ZA, Irnov I, Sonnert ND, Zhou J, Putnick R, Mueller EA, Steere AC, Palm NW, Grimes CL, Jacobs-Wagner C. 2025. Bacterial and host enzymes modulate the inflammatory response produced by the peptidoglycan of the Lyme disease agent. bioRxiv [2025.01.08.631998](https://www.biorxiv.org/content/10.1101/2025.01.08.631998v1.abstract).
+
+
 When cloning or producing new *Borrelia burgdorferi* strains, one must verify the plasmid content in each new clone to make sure that they have not lost any of their plasmids. This code here therefore hopes to do the following. 
 - Verify that there are no large-scale changes in the core genome from SNPs or other deletions. 
 - Check that *B. burgdorferi* retains all of its plasmids. 
